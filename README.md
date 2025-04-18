@@ -15,8 +15,7 @@
 
 ## 🚀 Live Demo
 
-👉 [View Live Resume](https://yourusername.github.io/patricia-resume-pdf)  
-(Replace the link with your GitHub Pages URL if hosted)
+👉 [View Live Resume](https://ptrcmahinay.github.io/single-paged-resume-pdf/)  
 
 ## 🧰 Built With
 
